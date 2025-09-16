@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Fallarm</string>
+    <string name="name_prompt">Enter your name here</string>
+    <string name="continue_button_text">Continue</string>
+    <string name="add_contact">Add contact</string>
+    <string name="emergency_contact_header">Add your emergency contacts</string>
+    <string name="emergency_contact_info">An emergency contact will get an \n alert when you fall.</string>
+    <string name="skip">Skip</string>
+    <string name="fall_details_header">Fall detected at:</string>
+    <string name="date">Date:</string>
+    <string name="time">Time:</string>
+    <string name="alert_sent">An alert was sent to your emergency contacts</string>
+    <string name="no_gps">Map not available, GPS was turned off for this fall.</string>
+    <string name="no_recent_falls">No recent falls</string>
+    <string name="last_fall_was">Your last fall was on</string>
+    <string name="history_button_text">View Full History</string>
+    <string name="alert_will_be_sent">A fall alert will be sent to your contacts in</string>
+    <string name="timer_start_value">01:00</string>
+    <string name="disable_button_text">Cancel Alert</string>
+    <string name="fall_detected_at">A fall was detected at</string>
+    <string name="close_button_text">Close</string>
+    <string name="logo">Fallarm Logo</string>
+    <string name="new_contact_header">New emergency contact:</string>
+    <string name="name">Name:</string>
+    <string name="phone_number">Phone number:</string>
+    <string name="add_button_text">Add</string>
+    <string name="connect_device_header">Connect your device</string>
+    <string name="connect_device_info">For this application you need an external device \n that tracks your movements</string>
+    <string name="emergency_contacts">Emergency contacts</string>
+    <string name="add_new">Add New</string>
+    <string name="accelerometer">Accelerometer</string>
+    <string name="no_device_registered">No device registered</string>
+    <string name="connect_device_button_text">Connect a device</string>
+    <string name="gps">GPS</string>
+    <string name="enable_gps">Enable location tracking of falls</string>
+    <string name="alert_was_disabled">You cancelled the alert to your emergency contacts</string>
+    <string name="no_falls_ever">And you don\'t have any detected falls before that either!</string>
+    <string name="fall_detected">Fall detected</string>
+    <string name="contacts_alerted">Your emergency contacts have been alerted</string>
+    <string name="alert_cancelled">The alert to your contacts was cancelled</string>
+    <string name="battery_text">Battery: %d%%</string>
+
+</resources>
